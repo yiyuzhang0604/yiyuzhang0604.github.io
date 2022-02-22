@@ -78,6 +78,7 @@ h3{
     align-items: center;
     align-self: center;
     flex-wrap: row wrap;
+    margin-bottom: 5%;
 
 }
 
@@ -95,8 +96,8 @@ a{
 
 
 .image{
-    width: 450px;
-    height: 450px; 
+    width: 400px;
+    height: 400px; 
     display: flex; 
     flex-direction: column;
     position: relative; 
