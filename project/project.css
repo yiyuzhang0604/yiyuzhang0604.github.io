@@ -65,10 +65,7 @@ h3{
 
 }
 
-.center{
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
+
 
 div{
     display: block;
@@ -88,43 +85,3 @@ a{
 }
 
 
-.project-card{
-    box-shadow: 0 4px 8px 0 grey;
-    border-radius: 5px; 
-    background-color: aliceblue;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-bottom: 5%;
-    margin-top: 5%;
-
-}
-
-.project-img{
-    width: 3000px; 
-    display: block;
-    object-fit: contain;
-    border-radius: 50%; 
-    margin-left: 5%;
-
-}
-
-.project-text{
-    width: 70%; 
-    display: block;
-    padding-right: 15%;
-
-}
-
-.intro-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding-top: 50px;
-}
-
-.project-link {
-    margin-right: 32px;
-    font-size: 24px;
-    color: orange;
-}

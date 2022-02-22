@@ -56,10 +56,7 @@ h3{
 
 }
 
-.center{
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
+
 
 body{
     font-size: 18px;
@@ -74,33 +71,5 @@ a{
 }
 
 
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-    left: 15%;
-    position: relative;
-    margin-left: 1em;
-    margin-bottom: 1em;
-}
-  
-.column {
-    flex: 50%;
-    position: relative; 
-    top: 20%; 
-    margin-left: 1em;
-    
-}
-  
-.column img {
-    margin-top: 8px;
-    margin-left: 1em;
-    vertical-align: middle;
-    width: 300px; 
-    height: 400px; 
-    object-fit: cover;
-    align-content: center;
-    
-}
 
 

@@ -32,13 +32,6 @@ li a:hover {
     background-color: #111;
 }
 
-.image{
-    width: 450px; 
-    display: block;
-    object-fit: contain;
-    border-radius: 50%;
-    
-}
 
 h2{
     position: relative; 
@@ -54,13 +47,6 @@ h2{
 .center{
     padding-left: 10rem;
     padding-right: 10rem;
-}
-
-.intro-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding-top: 50px;
 }
 
 div{
@@ -80,30 +66,3 @@ a{
     text-decoration: none;
 }
 
-.card{
-    box-shadow: 0 4px 8px 0 grey;
-    border-radius: 5px; 
-    background-color: aliceblue;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-bottom: 5%;
-    margin-top: 5%;
-    align-content: center;
-
-}
-
-.img{
-    width: 450px; 
-    display: block;
-    object-fit: contain;
-    border-radius: 50%; 
-
-}
-
-.text{
-    font-size: 38px;
-    color: #0583d2;
-    font-weight: 130; 
-
-}

@@ -1,6 +1,4 @@
 
-
-
 ul{
     list-style-type: none;
     margin-top: 0em;
@@ -16,7 +14,6 @@ ul{
     height: 60px; 
     opacity: 70%;
 }
-
 
 
 li {
@@ -35,13 +32,6 @@ li a:hover {
     background-color: #111;
 }
 
-.image{
-    width: 450px; 
-    display: block;
-    object-fit: contain;
-    border-radius: 50%;
-    
-}
 
 h2{
     position: relative; 
@@ -54,17 +44,6 @@ h2{
     text-align: center;
 }
 
-.center{
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
-
-.intro-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding-top: 50px;
-}
 
 body{
     font-size: 18px;
@@ -85,10 +64,5 @@ table{
     border-spacing: 2em;
 
 }
-.info-text{
-    font-size: 40px; 
-    color: #0583d2; 
-    font-weight: 200;
 
-}
 

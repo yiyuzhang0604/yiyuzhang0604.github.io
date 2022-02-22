@@ -34,13 +34,7 @@ li a:hover {
     background-color: #111;
 }
 
-.image{
-    width: 450px; 
-    display: block;
-    object-fit: contain;
-    border-radius: 50%;
-    
-}
+
 
 h2{
     position: relative; 
@@ -53,17 +47,6 @@ h2{
     text-align: center;
 }
 
-.center{
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
-
-.intro-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding-top: 50px;
-}
 
 div{
     display: block;
