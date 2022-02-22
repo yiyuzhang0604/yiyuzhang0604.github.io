@@ -1,7 +1,4 @@
 
-
-
-
 ul{
     list-style-type: none;
     margin-top: 0em;
@@ -34,14 +31,6 @@ li a {
   
 li a:hover {
     background-color: #111;
-}
-
-.image{
-    width: 450px; 
-    display: block;
-    object-fit: contain;
-    border-radius: 50%;
-    
 }
 
 h2{
@@ -80,8 +69,7 @@ h3{
     flex-wrap: row wrap;
     margin-bottom: 5%;
     align-content: space-between;
-    gap: 10px 20px;  
-
+    gap: 10px 15px;
 }
 
 body{
@@ -98,8 +86,8 @@ a{
 
 
 .image{
-    width: 300px;
-    height: 250px; 
+    width: 350px;
+    height: 280px; 
     display: flex; 
     flex-direction: column;
     position: relative; 
