@@ -79,3 +79,30 @@ a{
     color: rgb(30,144,255); 
     text-decoration: none;
 }
+
+.card{
+    box-shadow: 0 4px 8px 0 grey;
+    border-radius: 5px; 
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
+
+.img{
+    width: 450px; 
+    display: block;
+    object-fit: contain;
+    border-radius: 50%; 
+
+}
+
+.text{
+    width: 50%; 
+    display: block;
+    padding-right: 5%;
+
+}
