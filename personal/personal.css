@@ -72,11 +72,13 @@ h3{
     padding-right: 10rem;
 }
 
-.intro-container{
+.container{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
-    padding-top: 50px;
+    align-self: center;
+    flex-wrap: row wrap;
+
 }
 
 div{
@@ -98,10 +100,10 @@ a{
 
 
 .image{
-    width: 450px; 
-     
-    display: block;
-    object-fit: contain;
+    width: 450px;
+    display: flex; 
+    flex-direction: column;
+    position: relative; 
     border-radius: 50%;
     
 }
