@@ -89,6 +89,7 @@ a{
     align-items: center;
     margin-bottom: 5%;
     margin-top: 5%;
+    align-content: center;
 
 }
 
@@ -101,8 +102,8 @@ a{
 }
 
 .text{
-    width: 50%; 
-    display: block;
-    padding-right: 5%;
+    font-size: 38px;
+    color: #0583d2;
+    font-weight: 130; 
 
 }
